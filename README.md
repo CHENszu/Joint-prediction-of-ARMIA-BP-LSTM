@@ -4,3 +4,5 @@ Here, the prediction model of time series data is integrated. Users can choose a
 We have integrated and uploaded the modules of our virtual environment. Users can only configure the virtual environment through：
 
 pip install -r requirements.txt.
+
+ps：bp neural network and LSTM are implemented based on pytorch framework
